@@ -2,6 +2,7 @@
 ## Objective
 #### The objective of this exercise is to practice using git merge and rebase.
 ## Steps
+
 #### Follow the steps below to complete the exercise:
 #### 1. Clone this repository
 #### 2. Set git config pull.rebase true
